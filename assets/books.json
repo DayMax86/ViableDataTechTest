@@ -1,0 +1,219 @@
+[
+  {
+    "title": "The Hobbit",
+    "author": "JRR Tolkein",
+    "blurb": "A small dude goes on a very long walk or something. Don't know, never read it.",
+    "image_url": "/hobbit.jpg",
+    "published_date": "21-09-1937",
+    "categories": [
+      "fiction",
+      "adventure",
+      "popular"
+    ],
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "09-06-2024"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "JK Rowling",
+    "blurb": "A boy with a lightning scar finds out he's a wizard and goes on a magic adventure with friends.",
+    "image_url": "/hp-philosophers-stone.jpg",
+    "published_date": "26-06-1997",
+    "categories": [
+      "fiction",
+      "magic",
+      "popular"
+    ],
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "09-07-2024"
+  },
+  {
+    "title": "Noughts and Crosses",
+    "author": "Malorie Blackman",
+    "blurb": "A gripping political romance tackling deep themes set in a divided world",
+    "image_url": "/noughts-and-crosses.jpg",
+    "published_date": "15-01-2001",
+    "categories": [
+      "romance",
+      "fiction",
+      "politics"
+    ],
+    "loaned_by_id": "",
+    "return_date": ""
+  },
+  {
+    "title": "Smashed",
+    "author": "Junji Ito",
+    "blurb": "A collection of chilling horror stories by internationally bestselling manga artist Junji Ito",
+    "image_url": "/smashed.jpg",
+    "published_date": "16-04-2019",
+    "categories": [
+      "horror",
+      "fiction",
+      "manga"
+    ],
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "17-06-2024"
+  },
+  {
+    "title": "No Longer Human",
+    "author": "Osamu Dazai",
+    "blurb": "A deep, hard-hitting and extremely unsettling novel by literary savant Osamu Dazai details the sad, traumatic life of Yozo Oba.",
+    "image_url": "/no-longer-human.jpg",
+    "published_date": "01-01-1948",
+    "categories": [
+      "mature",
+      "fiction",
+      "politics",
+      "romance"
+    ],
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "12-07-2024"
+  },
+  {
+    "title": "No Longer Human",
+    "author": "Junji Ito",
+    "blurb": "A manga adaptation of Osamu Dazai's same-titled novel",
+    "image_url": "/no-longer-human-ito.jpg",
+    "published_date": "09-01-2020",
+    "categories": [
+      "mature",
+      "fiction",
+      "politics",
+      "romance",
+      "horror",
+      "manga"
+    ],
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "29-08-2024"
+  },
+  {
+    "title": "Knife Edge",
+    "author": "Malorie Blackman",
+    "blurb": "The sequel to Noughts and Crosses, this novel continues Sephy's story as she tries to come to terms with Callum's passing and her own pregnancy",
+    "image_url": "/knife-edge.jpg",
+    "published_date": "05-02-2004",
+    "categories": [
+      "romance",
+      "fiction",
+      "politics"
+    ],
+    "loaned_by_id": "dce1b201-cbeacb-12675a-19374911",
+    "return_date": "02-04-2024"
+  },
+  {
+    "title": "Checkmate",
+    "author": "Malorie Blackman",
+    "blurb": "The sequel to Knife Edge and third book in the Noughts and Crosses series, this book details Sephy as she struggles with motherhood and her own family relationships in a world that constantly pigeonholes and judges her",
+    "image_url": "/checkmate.jpg",
+    "published_date": "30-06-2005",
+    "categories": [
+      "romance",
+      "fiction",
+      "politics",
+      "mature"
+    ],
+    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234",
+    "return_date": "24-06-2024"
+  },
+  {
+    "title": "Double Cross",
+    "author": "Malorie Blackman",
+    "blurb": "The fourth installment in the Noughts and Crosses series, Double Cross details Callie Rose's teenage years including her relationship with her mother, her friends and some shady faces from past instalments",
+    "image_url": "/double-cross.jpg",
+    "published_date": "01-11-2008",
+    "categories": [
+      "romance",
+      "fiction",
+      "politics",
+      "mature"
+    ],
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "07-06-2024"
+  },
+  {
+    "title": "The Meditations",
+    "author": "Marcus Aurelius",
+    "blurb": "A collection of passages and stories from Rome's last great emperor, Marcus Aurelius. Considered one of the finest books on stoicism written by one of history's most famous stoics ",
+    "image_url": "/meditations.jpg",
+    "published_date": "01-01-2002",
+    "categories": [
+      "history",
+      "non-fiction",
+      "self-help",
+      "classic"
+    ],
+    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234",
+    "return_date": "22-06-2024"
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "blurb": "Plato's Republic is widely acknowledged as one of the most influential works in the history of philosophy. Presented in the form of a dialogue between Socrates and three different interlocutors, it is an inquiry into the notion of a perfect community and the ideal individual within it.",
+    "image_url": "/the-republic.jpg",
+    "published_date": "03-09-2007",
+    "categories": [
+      "history",
+      "classic"
+    ],
+    "loaned_by_id": "aabab201-d901bb-2ab75a-19371234",
+    "return_date": "14-06-2024"
+  },
+  {
+    "title": "Tomie",
+    "author": "Junji Ito",
+    "blurb": "This story focuses on a girl, named Tomie, who entrances any man that she meets and ultimately works them into such a frenzy that they kill her and dismember her. However, she also is seemingly immortal, and each fragment of her thus produced grows into a new version of her.",
+    "image_url": "/tomie.jpg",
+    "published_date": "01-02-1996",
+    "categories": [
+      "manga",
+      "horror",
+      "fiction",
+      "mature"
+    ],
+    "loaned_by_id": "",
+    "return_date": ""
+  },
+  {
+    "title": "The World Atlas of Coffee",
+    "author": "James Hoffman",
+    "blurb": "An atlas containing details of coffee from around the world as well as interesting facts about your beans and brewing techniques and tips.",
+    "image_url": "/coffee-atlas.jpg",
+    "published_date": "04-08-2019",
+    "categories": [
+      "horror"
+    ],
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "09-01-2023"
+  },
+  {
+    "title": "Magician",
+    "author": "Raymond E. Feist",
+    "blurb": "At Crydee, a frontier outpost in the tranquil Kingdom of the Isles, an orphan boy, Pug, is apprenticed to a master magician – and the destinies of two worlds are changed forever. Suddenly the peace of the Kingdom is destroyed as mysterious alien invaders swarm through the land.",
+    "image_url": "/magician.jpg",
+    "published_date": "01-10-1982",
+    "categories": [
+      "fiction",
+      "adventure",
+      "classic",
+      "politics",
+      "romance"
+    ],
+    "loaned_by_id": "fceab201-ddeabb-12675a-1937492d",
+    "return_date": "09-06-2024"
+  },
+  {
+    "title": "The Last",
+    "author": "Hanna Jameson",
+    "blurb": "For fans of high-concept thrillers such as Annihilation and The Girl with All the Gifts, this breathtaking dystopian psychological thriller follows an American academic stranded at a Swiss hotel as the world descends into nuclear war—along with twenty other survivors—who becomes obsessed with identifying a murderer in their midst after the body of a young girl is discovered in one of the hotel’s water tanks.",
+    "image_url": "/the-last.jpg",
+    "published_date": "24-01-2019",
+    "categories": [
+      "fiction",
+      "mature",
+      "mystery"
+    ],
+    "loaned_by_id": "",
+    "return_date": ""
+  }
+]
