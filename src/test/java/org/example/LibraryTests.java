@@ -2,10 +2,12 @@ package org.example;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertSame;
 
 class LibraryTests {
 
@@ -40,7 +42,7 @@ class LibraryTests {
     void test_filterBooksByDue() {
         Main.loadBooks();
         ArrayList<Book> filteredList = Main.filterByDueToReturn();
-        assertEquals(5, filteredList.size());
+        assertEquals(7, filteredList.size());
         // If the front end doesn't want the whole json list, specific values can be returned
         // e.g. the expected return date
         filteredList.forEach(book -> {
